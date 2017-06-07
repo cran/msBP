@@ -28,7 +28,9 @@ An object of the msBPTree class is basically a list containing two objects of th
 An object of the class \code{msbpTree}.
 }
 \references{
-Canale, A. and Dunson, D. B. (2016), "Multiscale Bernstein polynomials for densities", Statistica Sinica, 26
+Canale, A. and Dunson, D. B. (2016), "Multiscale Bernstein polynomials for densities", Statistica Sinica, 26(3), 1175-1195.
+
+Canale, A. (2017), "msBP: An R Package to Perform Bayesian Nonparametric Inference Using Multiscale Bernstein Polynomials Mixtures". Journal of Statistical Software, 78(6), 1-19. 
 }
 \seealso{
 \code{\link{msBP.rtree}}

@@ -24,7 +24,9 @@ conditionally on the weights contained in \code{weights}, each subject in \code{
 a matrix with \code{length(y)} row and two columns, denoting the scale and node within the scale, respectively.
 }
 \references{
-Canale, A. and Dunson, D. B. (2016), "Multiscale Bernstein polynomials for densities", Statistica Sinica, 26
+Canale, A. and Dunson, D. B. (2016), "Multiscale Bernstein polynomials for densities", Statistica Sinica, 26(3), 1175-1195.
+
+Canale, A. (2017), "msBP: An R Package to Perform Bayesian Nonparametric Inference Using Multiscale Bernstein Polynomials Mixtures". Journal of Statistical Software, 78(6), 1-19. 
 
 Kalli, M., Griffin, J., and Walker, S. (2011), "Slice sampling mixture models," Statistics and Computing, 21, 93-105.
 }

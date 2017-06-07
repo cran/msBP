@@ -19,8 +19,9 @@ Upper bound for the scale
 \value{
 A list containing tree objects of the class \code{binaryTree}.  \code{n} is the tree containing at each node the number of subjects allocated to that node, \code{r} is the tree containing at each node the number of subjects that went right at that node, and  \code{v} is the tree containing at each node the number of subjects that passed through that node.}
 \references{
-Canale, A. and Dunson, D. B. (2016), "Multiscale Bernstein polynomials for densities", Statistica Sinica, 26
-}
+Canale, A. and Dunson, D. B. (2016), "Multiscale Bernstein polynomials for densities", Statistica Sinica, 26(3), 1175-1195.
+
+Canale, A. (2017), "msBP: An R Package to Perform Bayesian Nonparametric Inference Using Multiscale Bernstein Polynomials Mixtures". Journal of Statistical Software, 78(6), 1-19. }
 \examples{
 sh <- cbind(c(2,2,2,3,3,3,3,3,3,3), c(1,2,2,1,2,3,4,5,6,7))
 nrv.trees <- msBP.nrvTrees(sh)

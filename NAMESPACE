@@ -1,4 +1,4 @@
-useDynLib(msBP)
+useDynLib(msBP, .registration = TRUE)
 import(stats)
 import(utils)
 import(DPpackage)

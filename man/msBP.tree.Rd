@@ -22,10 +22,12 @@ An object of the class  \code{msbpTree} is a list of 5 elements that represent a
 An object of the class \code{msBPTree} with zero at all nodes and \code{a=b=NULL}.
 }
 \references{
-Canale, A. and Dunson, D. B. (2016), "Multiscale Bernstein polynomials for densities", Statistica Sinica, 26
+Canale, A. and Dunson, D. B. (2016), "Multiscale Bernstein polynomials for densities", Statistica Sinica, 26(3), 1175-1195.
+
+Canale, A. (2017), "msBP: An R Package to Perform Bayesian Nonparametric Inference Using Multiscale Bernstein Polynomials Mixtures". Journal of Statistical Software, 78(6), 1-19. 
 }
 \author{
-Antonio Canale <antonio.canale@unito.it>
+Antonio Canale <canale@stat.unipd.it>
 }
 
 \seealso{
