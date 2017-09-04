@@ -1,6 +1,6 @@
-94a374e1fa8fec0e537db1ed139dee0c *ChangeLog
-f33b6c9f7f1218e8bbd47683e58cd172 *DESCRIPTION
-56a2d315224f4599320dcf85bb01388e *NAMESPACE
+5efb31b7b687827df5a08daac82994d7 *ChangeLog
+43ea98a352e8b171ee1a31f0a5009b44 *DESCRIPTION
+d2ba3285821d69d29fae5c28fa0b0b69 *NAMESPACE
 9ee7967dc5200b1e1cd3c92986a2ece0 *R/generic.R
 26d7ddad74fd2fbb99673d86cfcc4422 *R/msBP.Gibbs.R
 154cabec92f72f5865e301d5e0f01374 *R/msBP.LPML.R
@@ -17,12 +17,14 @@ d1c9a2d2a963e5842475f03ee69680ad *R/msBP.rsample.R
 6b9340377fd51c4bd614c3a026a3d07f *R/msBP.tree.R
 9b6dd54f263f5fae2cbd82a4a5c512dc *R/tree2vec.R
 20cba8fa9143ac5fb441984c04391651 *R/vec2tree.R
+4bd839e000fae3142bc5d9af3eea1700 *data/galaxy.rda
 62e1b535ee0a5d0795b27cf66acc32a2 *inst/CITATION
+d538f7611439942cb940384e9938391a *man/galaxy.Rd
 88a7b96e93a3a15379af14b3938fca83 *man/msBP-internal.Rd
 3cc2195c482f7a29d14b099d801f6518 *man/msBP-package.Rd
 d8566e360b29c07883f872101e28e045 *man/msBP.Gibbs.Rd
 be5de6091a807b61af1ec1fc4b28c03d *man/msBP.compute.prob.Rd
-8ef1446b4eef5d94c6445e44fef0bf9e *man/msBP.density.Rd
+3665a5c6da89416b7929737515732ca1 *man/msBP.density.Rd
 27947c98776133f89df448b36f6a0347 *man/msBP.nrvTrees.Rd
 033c1c69d733b340292c276f9d037219 *man/msBP.postCluster.Rd
 481fc6a2aff79ea83e49b0c9201be89e *man/msBP.rsample.Rd

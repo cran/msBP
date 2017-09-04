@@ -2,7 +2,7 @@
 \alias{msBP.pdf}
 \alias{msBP.cdf}
 \title{
-Random probability density function and random cumulative distribution function  from a msBP
+Random probability density function and random cumulative distribution function from a msBP
 }
 \description{
 Compute the density and the cumulative distribution functions of a random density drawn from an msBP(a,b) process
