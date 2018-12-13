@@ -4,9 +4,6 @@
  Version 1.0 of April 2016
  2014 - 2016 Antonio Canale (antonio.canale@unito.it)
 -------------------------------------------------------------------------------*/
-#include<stdio.h>
-#include<stdlib.h>
-#include<math.h>
 #include<R.h>
 #include<Rmath.h>
 #include "bintree.h"
