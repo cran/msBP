@@ -1,5 +1,5 @@
-bb7b5c35c429f6b605b16b61b8e32968 *ChangeLog
-c52fc750625bc21c45abf5023ff67fe2 *DESCRIPTION
+d15c819c321a5e4cd1e995af4a474742 *ChangeLog
+317bdd2f08c181f4816e5e0e61a9390d *DESCRIPTION
 d2ba3285821d69d29fae5c28fa0b0b69 *NAMESPACE
 9ee7967dc5200b1e1cd3c92986a2ece0 *R/generic.R
 26d7ddad74fd2fbb99673d86cfcc4422 *R/msBP.Gibbs.R
@@ -17,14 +17,14 @@ d1c9a2d2a963e5842475f03ee69680ad *R/msBP.rsample.R
 6b9340377fd51c4bd614c3a026a3d07f *R/msBP.tree.R
 9b6dd54f263f5fae2cbd82a4a5c512dc *R/tree2vec.R
 20cba8fa9143ac5fb441984c04391651 *R/vec2tree.R
-98c8da93a0881e6beaffcfe657014ff7 *build/vignette.rds
+c52b054fd1d4f570b389667828380047 *build/vignette.rds
 4bd839e000fae3142bc5d9af3eea1700 *data/galaxy.rda
 62e1b535ee0a5d0795b27cf66acc32a2 *inst/CITATION
 600da8153ec5e8cbd4cb98644d94b71f *inst/doc/msbpjss.ltx
-021b9d7eebd90092df571b1155941864 *inst/doc/msbpjss.pdf
+a2640c3630996dc75cfd32f4e184cb28 *inst/doc/msbpjss.pdf
 d538f7611439942cb940384e9938391a *man/galaxy.Rd
 88a7b96e93a3a15379af14b3938fca83 *man/msBP-internal.Rd
-3cc2195c482f7a29d14b099d801f6518 *man/msBP-package.Rd
+e502e2c47c25dcc4861fd93c759b5783 *man/msBP-package.Rd
 d8566e360b29c07883f872101e28e045 *man/msBP.Gibbs.Rd
 be5de6091a807b61af1ec1fc4b28c03d *man/msBP.compute.prob.Rd
 3665a5c6da89416b7929737515732ca1 *man/msBP.density.Rd
@@ -33,7 +33,7 @@ be5de6091a807b61af1ec1fc4b28c03d *man/msBP.compute.prob.Rd
 481fc6a2aff79ea83e49b0c9201be89e *man/msBP.rsample.Rd
 51ea0b4e1e7449ca412543804ef4f56c *man/msBP.rtree.Rd
 52e072a9a87c3097f82cee6ce61b47c5 *man/msBP.test.Rd
-46e6449bf711d70b0346d0cd6e2f2d8a *man/msBP.tree.Rd
+d57840b21376804331293474e62aaa20 *man/msBP.tree.Rd
 9a0aec344f7205da7c72309b95a0649e *man/tree2vec.Rd
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
 b062e3c8352c5c404f7e3cf90a10177c *src/auxGibbs.cpp

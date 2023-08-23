@@ -26,10 +26,6 @@ Canale, A. and Dunson, D. B. (2016), "Multiscale Bernstein polynomials for densi
 
 Canale, A. (2017), "msBP: An R Package to Perform Bayesian Nonparametric Inference Using Multiscale Bernstein Polynomials Mixtures". Journal of Statistical Software, 78(6), 1-19. 
 }
-\author{
-Antonio Canale <canale@stat.unipd.it>
-}
-
 \seealso{
 \code{msBP.rtree}
 }
